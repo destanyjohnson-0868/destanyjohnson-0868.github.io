@@ -4,8 +4,8 @@
 
 body {
   margin: 0;
-  background: #947706;
-  color: #222;
+  background: lch(29.54% 77.47 320.34);
+  color: lch(20.9% 43.56 346.63);
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -41,12 +41,12 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #000;
+  color: lab(56.07% 74.9 -47.25);
 }
 
 .content > p {
   margin: 0;
-  color: #999;
+  color: hsl(187, 63%, 55%);
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
